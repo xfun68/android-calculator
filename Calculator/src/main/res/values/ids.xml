@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="sum" type="id">com.panda.calculator.sum</item>
+    <item name="firstOperand" type="id">com.panda.calculator.firstOperand</item>
+    <item name="secondOperand" type="id">com.panda.calculator.secondOperand</item><item name="calculate" type="id">com.panda.calculator.calculate</item>
+</resources>
